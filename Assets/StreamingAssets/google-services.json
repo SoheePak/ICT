@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "709127258995",
+    "firebase_url": "https://ictproject-24a3b-default-rtdb.firebaseio.com",
+    "project_id": "ictproject-24a3b",
+    "storage_bucket": "ictproject-24a3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709127258995:android:0feaa7a33fb152587b7b06",
+        "android_client_info": {
+          "package_name": "com.ict.sv"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfy8IKa10MhZtUXqdRNisMYofoJvewDSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
